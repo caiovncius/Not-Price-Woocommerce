@@ -9,4 +9,14 @@ Installation
 Upload foldernotpricewoocommerce to the /wp-content/plugins/ directory
 Activate the plugin through the 'Plugins' menu in WordPress
 
+Changelog
+==========
+
+*0.1
+* Define show cart button.
+
+*0.2
+* Define show cart button in list products or single page products only.
+* Define show price only users logged.
+
 
